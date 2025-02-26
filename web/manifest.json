@@ -1,6 +1,6 @@
 {
-    "name": "agrisaathi",
-    "short_name": "agrisaathi",
+    "name": "equipment",
+    "short_name": "equipment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

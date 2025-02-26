@@ -1,4 +1,4 @@
-# agrisaathi
+# equipment
 
 A new Flutter project.
 
